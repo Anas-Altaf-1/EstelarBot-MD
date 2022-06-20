@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['14504976783', '593993684821', '593968585383'] 
+global.owner = ['923336681780', '923046449370'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'EstelarBot-MD'
-global.numberowner = '14504976783'
-global.instagram = 'https://www.instagram.com/gata_dios'
-global.github = 'https://github.com/GataNina-Li/EstelarBot-MD'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'KING-ZIT-MD'
+global.numberowner = '923336681780'
+global.instagram = 'https://www.instagram.com/'
+global.github = 'https://github.com/'
+global.dana = '+923336681780'
+global.pulsa = '+923336681780'
+global.gopay = '+923336681780'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝑬𝒔𝒕𝒆𝒍𝒂𝒓𝑩𝒐𝒕-𝑴𝑫 '
-global.gc = 'https://chat.whatsapp.com'
-global.web = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'KING-ZIT-𝑩𝒐𝒕-𝑴𝑫 '
+global.gc = 'https://chat.whatsapp.com/Cwuyiz93gvILEi2iqv4T4M'
+global.web = 'https://youtube.com/channel/UCbzkOcWJL1i4W4QRAoBu6Vw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '10000 bulan = 0.000\n2 Minggu 0.000\n1 Minggu 0.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.ibb.co/jGhVVRK/Text-Pro-me-162ae7ee1a309a.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.ibb.co/jGhVVRK/Text-Pro-me-162ae7ee1a309a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = 'KING-ZIT-MD'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 KING-ZIT-MD 」'
+global.wm3 = '⫹⫺ KING-ZIT-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://i.ibb.co/jGhVVRK/Text-Pro-me-162ae7ee1a309a.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*Wait Processing...*_'
 global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.benar = 'True ✅\n'
+global.salah = 'False ❌\n'
+global.stiker_wait = 'Stiker creating'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© King Zit'
 global.vs = '1.1.5'
 
 //=============『 Apikey 』================== //
